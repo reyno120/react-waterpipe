@@ -1,6 +1,7 @@
 # react-waterpipe
 Waterpipe.js converted from a jQuery plugin to a React Component.
 
+---
 ### Usage
 1. Download import Waterpipe.js into your react component
 ```
@@ -38,6 +39,7 @@ export default App;
 
 If no options are given than the component will automatically initialize with default settings.
 
+---
 ### Options
 | Option | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
@@ -56,6 +58,18 @@ If no options are given than the component will automatically initialize with de
 | bgColorOuter | string | '#666666' | Background inner color in hex format |
 
 
+---
+### Demo
+See original creator for demo
+https://github.com/dragdropsite/waterpipe.js/
+
+
+---
 ### Credits
 Waterpipe.js is originally developed by dragdropesite.com. View the full source code and originally jQuery plugin here:
 https://github.com/dragdropsite/waterpipe.js/
+
+
+---
+### License
+Licensed under MIT license
