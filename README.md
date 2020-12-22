@@ -66,7 +66,7 @@ https://github.com/dragdropsite/waterpipe.js/
 
 ---
 ### Credits
-Waterpipe.js is originally developed by dragdropesite.com. View the full source code and original jQuery plugin here:
+Waterpipe.js is originally developed by dragdropsite.com. View the full source code and original jQuery plugin here:
 https://github.com/dragdropsite/waterpipe.js/
 
 
